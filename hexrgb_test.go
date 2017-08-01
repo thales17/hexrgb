@@ -44,7 +44,6 @@ func TestHexToRGB(t *testing.T) {
 		}
 	}
 }
-
 func TestRGBToHex(t *testing.T) {
 	type testColor struct {
 		input    string
